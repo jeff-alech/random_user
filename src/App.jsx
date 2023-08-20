@@ -39,7 +39,7 @@ export default function App() {
 
   function handleOnMouse() {
     setProfile(data.picture.large)
-    
+
     if (showName) {
       const fullName = data.name.first + " " + data.name.last
       setSpan('Hi, My name is')
