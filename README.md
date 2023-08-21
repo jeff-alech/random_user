@@ -19,7 +19,7 @@ Para executar este projeto localmente, siga estas etapas:
 3. Navegue até o diretório do projeto:
 4. cd projeto-dados
 5. Instale as dependências:
-6. npm create vite@latest
+6. npm install
 7. Inicie o servidor de desenvolvimento:
 8. npm run dev
 9. 5. Abra seu navegador e vá para `http://localhost:3000 ou http://localhost:5173/` para ver o aplicativo em ação.
